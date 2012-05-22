@@ -1,0 +1,17 @@
+/* additional styles for pages with forms */
+
+/* NOTE: the container's width is 50em */
+
+.form { text-align: left; color: black; padding: 1em; }
+.form { width: 25em; margin-left: 12.5em;} /* this precisely centers the form */
+.form thead { border: solid 1px red;  text-align: right; color: blue; }
+
+.error { color: red; text-align: center; font-family: times; font-weight: bold}
+
+.largeform { text-align: left; color: black; padding: 1em; }
+.largeform { width: 35em; margin-left: 7.5em;} /* this precisely centers the form */
+.largeform thead { border: solid 1px red;  text-align: left; color: blue; }
+
+.info { color: green; text-align: center}
+
+.even { background-color: silver;}

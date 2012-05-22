@@ -1,0 +1,39 @@
+
+/* I can do all things through Him who gives me strength */
+
+body {margin: 0 320px 0 320px}
+
+/* this defines the margin + content + margin design */
+.container { width: 50em;}
+
+a {text-decoration: none;color: blue;}
+a:hover {text-decoration: underline; cursor: pointer}
+
+.inter { color: silver;}
+
+.username { color: blue;}
+
+.header { background-color: black; padding: 0.5em 0 0.5em 1em}
+
+.menu { border-top: solid 1px black; border-bottom: solid 1px silver; border-left: solid 1px silver; border-right: solid 1px silver; }
+
+/* display the list as a table */
+ul.nav { margin: 1em; padding: 0; display: inline; }
+ul.nav { display: table;}
+ul.nav li { display: table-cell; text-align: center; padding: 0 7px 0 7px; border-left: solid 1px silver}
+#listfiller {width: 100%;}
+
+ul#chatlist {text-align: center; list-style: none; }
+
+textarea {background-color: white; color: blue}
+
+.content { background-color: silver; padding-top: 0.2em; border-bottom: solid 5px white}
+
+.subheader { padding-left: 1.0em; background-color: silver; text-align: center; color: blue; font-size: 1.4em; font-family: times}
+
+.subheadersmall { padding-left: 1.0em; background-color: silver; text-align: center; color: black; font-size: 1.1em; font-family: aerial}
+
+.subcontent { background-color: white; text-align: center; margin: 0; padding: 0; border: solid 2px silver; font-family: arial; font-weight: bold; }
+
+.loginregcontent { background-color: silver; text-align: center; margin: 0; padding: 0; border: solid 2px silver; font-family: arial; font-weight: bold; }
+
